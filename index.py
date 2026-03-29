@@ -1,2 +1,7 @@
-print("Hello world!") 
-print("Hello world!") 
+
+def sum(a, b):
+    return a+b
+
+sum(12,4)
+
+print(sum)
